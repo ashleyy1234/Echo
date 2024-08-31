@@ -10,4 +10,4 @@ components
 
 Installation Instructions
   1. Connect the components above according to the schematic diagram (on devpost)
-  2. Download the main Arduino code and download it to the Arduino
+  2. Download and run the main Arduino code to the Arduino Uno R4
